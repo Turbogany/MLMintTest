@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3a95D61309F42e5356D3AB812725B0678D60d5f0",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3a95d61309f42e5356d3ab812725b0678d60d5f0",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Mad Lab NFT",
+  "SYMBOL": "MAD NFT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/gsstestv6",
+  "SHOW_BACKGROUND": true
+}
